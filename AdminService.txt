@@ -5,3 +5,5 @@ create the mysql database
 
 hello create the database
 
+make the new database named Surendra Reddy
+
