@@ -1,3 +1,7 @@
 hello, I can create and delete the users
 
+<<<<<<< HEAD
 create the mysql database
+=======
+hello create the database
+>>>>>>> feature2
